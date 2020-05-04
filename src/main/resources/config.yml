@@ -1,0 +1,3 @@
+common:
+  csv-path: src\main\resources\DATA\2016 전국 음식점 정보.csv
+  index-path: src\main\resources\INDEX
