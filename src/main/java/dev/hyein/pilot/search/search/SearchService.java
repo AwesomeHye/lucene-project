@@ -1,6 +1,5 @@
-package dev.hyein.pilot.search.service.parent;
+package dev.hyein.pilot.search.search;
 
-import dev.hyein.pilot.search.vo.SearchResultVo;
 import lombok.Data;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;

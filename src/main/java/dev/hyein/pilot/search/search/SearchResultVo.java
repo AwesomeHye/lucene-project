@@ -1,4 +1,4 @@
-package dev.hyein.pilot.search.vo;
+package dev.hyein.pilot.search.search;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

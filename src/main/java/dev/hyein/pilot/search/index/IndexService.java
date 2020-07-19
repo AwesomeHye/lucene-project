@@ -1,4 +1,4 @@
-package dev.hyein.pilot.search.service.parent;
+package dev.hyein.pilot.search.index;
 
 
 import lombok.extern.slf4j.Slf4j;

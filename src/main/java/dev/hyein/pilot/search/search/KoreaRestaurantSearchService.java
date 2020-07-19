@@ -1,13 +1,10 @@
-package dev.hyein.pilot.search.service;
+package dev.hyein.pilot.search.search;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-import dev.hyein.pilot.search.service.parent.SearchService;
+import dev.hyein.pilot.search.search.SearchService;
 import dev.hyein.pilot.search.vo.KoreaRestaurantVo;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.search.*;
-
-import javax.swing.text.StyledEditorKit;
 
 @Slf4j
 public class KoreaRestaurantSearchService extends SearchService {

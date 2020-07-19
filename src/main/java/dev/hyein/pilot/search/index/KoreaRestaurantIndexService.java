@@ -1,6 +1,6 @@
-package dev.hyein.pilot.search.service;
+package dev.hyein.pilot.search.index;
 
-import dev.hyein.pilot.search.service.parent.IndexService;
+import dev.hyein.pilot.search.index.IndexService;
 import dev.hyein.pilot.search.vo.KoreaRestaurantVo;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
